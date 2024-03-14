@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Fadhilah",
+      "email": "fadhilah@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Spaso",
+      "email": "spaso@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Dinda",
+      "email": "panji@gmail.com"
+    },
+    {
+      "id": "dcf7",
+      "name": "Ana",
+      "email": "ana@gmail.com"
+    },
+    {
+      "id": "cb11",
+      "name": "qita",
+      "email": "qita@gmail.com"
+    },
+    {
+      "id": "4654",
+      "name": "justin",
+      "email": "justin@gmail",
+      "password": "1234567"
+    }
+  ]
+}
