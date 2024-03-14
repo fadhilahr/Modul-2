@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": "fc8a",
+      "name": "Juan",
+      "email": "juan@gmail.com",
+      "age": 22,
+      "address": "Jakarta"
+    },
+    {
+      "id": "5a69",
+      "name": "Andi",
+      "email": "andi@gmail.com",
+      "age": 23,
+      "address": "Bandung"
+    }
+  ]
+}
